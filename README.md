@@ -112,7 +112,7 @@ Before getting started, ensure that you have the following prerequisites install
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Anass001/FreelanceConnect.git
+   git clone https://github.com/Sarthak690/FreelanceConnect-master.git
    cd FreelanceConnect
    ```
    
@@ -167,7 +167,7 @@ Replace the placeholders with the actual values specific to your project.
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/Anass001/FreelanceConnect.git
+   git clone https://github.com/Sarthak690/FreelanceConnect-master.git
    cd FreelanceConnect
    ```
    
@@ -261,10 +261,9 @@ Visit your domain or server IP address in a web browser to access the deployed a
 
 ## Authors
 This exceptional project was expertly developed as an end-of-module assignment. Our talented team, consisting of:
-  - Anas Lamaiz [@Anass001](https://github.com/Anass001)
-  - Ismail Oukha [@itsmeismaill](https://github.com/itsmeismaill)
+  - Sarthak Joshi [@Sarthak690](https://github.com/Sarthak690)
 
 collaborated under the invaluable guidance of Professor:
-  - Mr. Lotfi Elaachak
+  - Miss.Urvashi Sharma 
 
 Together, we dedicated ourselves to crafting a remarkable endeavor that showcases our skills and knowledge in the field of web development and frameworks.
